@@ -25,7 +25,11 @@ O código implementa um algoritmo utilizando a linguagem de programação python
 6. O codigo será executado enquanto o usuario digitar qualquer numero que não seja 0 (zero)
 
 ## Codigo em execução
+
+### Imagem :
 ![](./programa/programa-em-execucao.jpeg)
+
+### Gif
 ![](./programa/programa-em-execucao.gif)
 
 ## Equipe de Desenvolvedores
