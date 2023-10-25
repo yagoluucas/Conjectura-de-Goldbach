@@ -18,12 +18,15 @@ O código implementa um algoritmo utilizando a linguagem de programação python
 
 ## Como executar o programa
 1. Tenha uma IDE do seu gosto ou utilize o terminal do seu sistema operacional para rodar o código
-2. A conjectura será feita apenas para numeros pares acima de 2 então voce deverá digitar um numero de acordo
-3. Caso queira parar a execução do programa digite o numero 0 (zero).
-4. O codigo será executado enquanto o usuario digitar qualquer numero que não seja 0 (zero)
+2. Faça uma fork do projeto ou clona o mesmo em seu repositorio remote
+3. O codigo executado deverá ser o main pois é o codigo fonte do projeto e lá toda a logica está sendo representada
+4. A conjectura será feita apenas para numeros pares acima de 2 então voce deverá digitar um numero de acordo
+5. Caso queira parar a execução do programa digite o numero 0 (zero).
+6. O codigo será executado enquanto o usuario digitar qualquer numero que não seja 0 (zero)
 
 ## Codigo em execução
-
+![](./programa/programa-em-execucao.jpeg)
+![](./programa/programa-em-execucao.gif)
 
 ## Equipe de Desenvolvedores
 Yago Lucas Gonçalves da Silva
