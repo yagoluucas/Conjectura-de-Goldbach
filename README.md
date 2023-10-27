@@ -18,7 +18,7 @@ O código implementa um algoritmo utilizando a linguagem de programação python
 
 ## Como executar o programa
 1. Tenha uma IDE do seu gosto ou utilize o terminal do seu sistema operacional para rodar o código
-2. Faça uma fork do projeto ou clona o mesmo em seu repositorio remote
+2. Faça uma fork do projeto ou faça um clone do mesmo em seu repositorio remoto
 3. O codigo executado deverá ser o main pois é o codigo fonte do projeto e lá toda a logica está sendo representada
 4. A conjectura será feita apenas para numeros pares acima de 2 então voce deverá digitar um numero de acordo
 5. Caso queira parar a execução do programa digite o numero 0 (zero).
